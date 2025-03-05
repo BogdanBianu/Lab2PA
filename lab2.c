@@ -18,6 +18,8 @@ int main(){
 		i++;
 	}
 	printf("%d", i);
+
+	printf("ai sa mi dai un milion @rares.chiculita");
 	return 0;	
 }
 
